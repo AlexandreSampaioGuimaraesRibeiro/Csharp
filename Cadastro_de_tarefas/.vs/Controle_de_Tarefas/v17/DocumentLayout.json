@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\controle_de_tarefas\\niew\\formfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|solutionrelative:controle_de_tarefas\\niew\\formfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\controle_de_tarefas\\niew\\formtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|solutionrelative:controle_de_tarefas\\niew\\formtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|c:\\users\\user\\documents\\arquivos exercicios escola alexandre\\atividades senai\\controle_de_tarefas\\controle_de_tarefas\\controller\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|solutionrelative:controle_de_tarefas\\controller\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|c:\\users\\user\\documents\\arquivos exercicios escola alexandre\\atividades senai\\controle_de_tarefas\\controle_de_tarefas\\controller\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|solutionrelative:controle_de_tarefas\\controller\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|c:\\users\\user\\documents\\arquivos exercicios escola alexandre\\atividades senai\\controle_de_tarefas\\controle_de_tarefas\\model\\funcionariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|solutionrelative:controle_de_tarefas\\model\\funcionariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\controle_de_tarefas\\niew\\formfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|solutionrelative:controle_de_tarefas\\niew\\formfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\controle_de_tarefas\\niew\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FBBFE-19D0-421E-B92C-F7CB715342AA}|Controle_de_Tarefas\\Controle_de_Tarefas.csproj|solutionrelative:controle_de_tarefas\\niew\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTarefas.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Niew\\FormTarefas.cs",
+              "RelativeDocumentMoniker": "Controle_de_Tarefas\\Niew\\FormTarefas.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Niew\\FormTarefas.cs",
+              "RelativeToolTip": "Controle_de_Tarefas\\Niew\\FormTarefas.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAF8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:16:13.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Niew\\Menu.cs",
+              "RelativeDocumentMoniker": "Controle_de_Tarefas\\Niew\\Menu.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Niew\\Menu.cs",
+              "RelativeToolTip": "Controle_de_Tarefas\\Niew\\Menu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:44:36.86Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormFuncionarios.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Niew\\FormFuncionarios.cs",
+              "RelativeDocumentMoniker": "Controle_de_Tarefas\\Niew\\FormFuncionarios.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Niew\\FormFuncionarios.cs",
+              "RelativeToolTip": "Controle_de_Tarefas\\Niew\\FormFuncionarios.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:54:15.764Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncionariosModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Model\\FuncionariosModel.cs",
+              "RelativeDocumentMoniker": "Controle_de_Tarefas\\Model\\FuncionariosModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Model\\FuncionariosModel.cs",
+              "RelativeToolTip": "Controle_de_Tarefas\\Model\\FuncionariosModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:18:28.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Controller\\TarefaController.cs",
+              "RelativeDocumentMoniker": "Controle_de_Tarefas\\Controller\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Controller\\TarefaController.cs",
+              "RelativeToolTip": "Controle_de_Tarefas\\Controller\\TarefaController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:06:40.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormFuncionarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Niew\\FormFuncionarios.cs",
+              "RelativeDocumentMoniker": "Controle_de_Tarefas\\Niew\\FormFuncionarios.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Niew\\FormFuncionarios.cs [Design]",
+              "RelativeToolTip": "Controle_de_Tarefas\\Niew\\FormFuncionarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T22:14:40.699Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionariosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Controller\\FuncionariosController.cs",
+              "RelativeDocumentMoniker": "Controle_de_Tarefas\\Controller\\FuncionariosController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\arquivos exercicios escola alexandre\\atividades senai\\Controle_de_Tarefas\\Controle_de_Tarefas\\Controller\\FuncionariosController.cs",
+              "RelativeToolTip": "Controle_de_Tarefas\\Controller\\FuncionariosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T22:13:33.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
